@@ -1,4 +1,4 @@
 # BridgeTA
-Official implementation of BridgeTA
+Official implementation of **"BridgeTA"** (Paper under review).
 
-Codes will be coming soon!
+🚧 Codes will be released upon paper acceptance.
